@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "nutui-uniapp": "^1.7.10",
+    "pinia": "^2.1.7",
+    "scss": "^0.2.4",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "@uni-helper/vite-plugin-uni-components": "^0.0.9",
+    "sass": "^1.77.6"
+  }
+}
